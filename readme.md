@@ -1,5 +1,5 @@
 ---
-##First task: calculate matrix determinant via the Gauss method ## <br>
+First task: calculate matrix determinant via the Gauss method  <br>
 Nothing beyond the task, read the matrix, check that it is square, if it is, then bring it to a step form, remembering how much we multiplied the original determinant. At the end, return the value and display it on the screen
 Examples: <br>
 ```
