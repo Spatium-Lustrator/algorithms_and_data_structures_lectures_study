@@ -36,8 +36,9 @@ Out:
 Calculated determinant: 15.00
 ```
 ---
-##Second task: count tankers on image## <br>
-
+Second task: count tankers on image
+=
+<br>
 Total count: 238
 
 I left the Gaussian blur function in the file, but it is not used in the end (the image with an example of its operation before applying contrast is located in the task folder), as the tankers are "eaten up" after applying other operations
