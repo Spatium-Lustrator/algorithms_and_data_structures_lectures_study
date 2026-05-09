@@ -35,7 +35,6 @@ In:
 Out:
 Calculated determinant: 15.00
 ```
----
 Second task: count tankers on image
 =
 <br>
@@ -59,4 +58,5 @@ Before "dead zones" early processing:
 ![Before "dead zones" early processing](second-task-segmentation/marked_before_finding_dead_zones_and_some_tuning.png)
 Final result:
 ![Final result](second-task-segmentation/input_picture_after_marking_tankers.png)
+
 
